@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Armielyn Obinguar</h1>
-<h3 align="center">DevRel| Community Member @openguildwtf | working with open source community web3 + AI</h3>
+<h3 align="center">DevRel @tarsprotocol| working with open source community web3 + AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armlynobinguar&label=Profile%20views&color=0e75b6&style=flat" alt="armlynobinguar" /> </p>
 
