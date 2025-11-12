@@ -6,14 +6,6 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&vCenter=true&width=600&lines=Developing+Agentic+AI" alt="Typing SVG" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AAAAAA&vCenter=true&width=600&lines=Creating+autonomous+intelligent+systems" alt="Typing SVG" />
-
-<br>
-
-<br>
-
 ---
 
 <br>
