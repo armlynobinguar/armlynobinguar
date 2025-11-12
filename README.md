@@ -6,12 +6,6 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&vCenter=true&width=600&lines=Focused+on+Mechanistic+Interpretability" alt="Typing SVG" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AAAAAA&vCenter=true&width=700&lines=Understanding+how+neural+networks+actually+work+internally" alt="Typing SVG" />
-
-<br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&vCenter=true&width=600&lines=Building+Explainable+AI+Systems" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AAAAAA&vCenter=true&width=600&lines=Making+AI+decisions+transparent+and+interpretable" alt="Typing SVG" />
@@ -24,11 +18,6 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&vCenter=true&width=600&lines=Open+Source+Contributor" alt="Typing SVG" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AAAAAA&vCenter=true&width=600&lines=Working+with+the+AI+research+community" alt="Typing SVG" />
-
-<br>
 
 ```
 ...
