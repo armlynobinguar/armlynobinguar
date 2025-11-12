@@ -132,16 +132,6 @@ me.say_hi()
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Armielyn's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=armlynobinguar&theme=react-dark&hide_border=true)](https://github.com/armlynobinguar)
-
-</div>
-
----
-
 ## 🌟 Featured Projects
 
 <div align="center">
