@@ -31,7 +31,7 @@ I believe in building things that matter, explaining them clearly, and sharing t
  Developer Relations → Community building, technical content, conference talks
  LLM Research → RAG systems, retrieval evaluation, scientific QA
  Cloud ML → AWS & GCP deployments, data pipelines at scale
- Web3 x AI → Solana, Avalanche, agentic frameworks
+ Web3 x AI → Etherium, Polkadot, Base, Solidity, Rust, Solana, Avalanche, agentic frameworks
  Applied Security → Fraud detection, TensorFlow-based verification, encryption
 ```
 
