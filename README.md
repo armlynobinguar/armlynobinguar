@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1200&color=A78BFA&vCenter=true&center=true&width=700&lines=Head+of+Developer+Relations+%40+TARS+AI;LLM+Researcher+%7C+NIAI+2026+Author;Machine+Learning+Engineer+%7C+ex-Accenture;Building+at+the+frontier+of+AI+%26+Web3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1200&color=A78BFA&vCenter=true&center=true&width=700&lines=Developer+Relations+%7C+AI+%26+Web3;LLM+Researcher+%7C+NIAI+2026+Author;Machine+Learning+Engineer+%7C+ex-Accenture;Building+at+the+frontier+of+AI+%26+Web3" alt="Typing SVG" />
 
 </div>
 
@@ -30,13 +30,39 @@ I believe in building things that matter, explaining them clearly, and sharing t
 
 ## Experience
 
-| Role | Organization | Period |
-|---|---|---|
-| Head of Developer Relations | **TARS AI** | Jan 2025 – Present |
-| DevRel – SEA (Generative AI) | **Virtuals Protocol / PathDAO** | Jan 2024 – Jan 2025 |
-| CTO & Co-Founder | **Safe Technology Ventures** | Jun 2023 – Dec 2023 |
-| ML Engineer Specialist | **Accenture Philippines** | Jan 2021 – May 2023 |
-| Lead ML Engineer | **Omdena** (w/ UNICEF, ITU, UNDP) | Mar 2020 – Dec 2021 |
+```
+──────────────────────────────────────────────────────────────────
+  Developer Relations                            Jan 2025 – Present
+  AI & Web3 Ecosystems
+  → 10+ conferences as speaker or presenter
+  → Developer content, onboarding guides, and hands-on workshops
+  → Cross-functional work with engineering and marketing teams
+──────────────────────────────────────────────────────────────────
+  Developer Relations – Southeast Asia           Jan 2024 – Jan 2025
+  Virtuals Protocol / PathDAO  ·  Generative AI
+  → Onboarded 5,000+ builders across the SEA ecosystem
+  → Built developer materials for AI agent dataset pipelines
+  → Organized physical meetups, workshops, and Web3 x AI events
+──────────────────────────────────────────────────────────────────
+  CTO & Co-Founder                               Jun 2023 – Dec 2023
+  Safe Technology Ventures
+  → Built an escrow payment platform with FlutterFlow & Firebase
+  → Integrated TensorFlow-powered fraud prevention
+  → Deployed on Google Cloud for nationwide scale
+──────────────────────────────────────────────────────────────────
+  Machine Learning Engineer Specialist           Jan 2021 – May 2023
+  Accenture Philippines
+  → Led AWS & GCP ML deployments at 500k-record scale (89% success)
+  → Delivered PoCs in fraud detection, financial analysis, encryption
+  → Merged cloud infrastructure expertise with financial compliance
+──────────────────────────────────────────────────────────────────
+  Lead Machine Learning Engineer                 Mar 2020 – Dec 2021
+  Omdena  ·  w/ UNICEF, ITU & UNDP
+  → Led computer vision analysis across 50,000+ schools
+  → Applied CNNs & GANs to assess digital connectivity access
+  → Presented findings to international stakeholders and institutions
+──────────────────────────────────────────────────────────────────
+```
 
 ---
 
