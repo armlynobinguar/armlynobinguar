@@ -110,8 +110,6 @@ I believe in building things that matter, explaining them clearly, and sharing t
 
 </div>
 
----
-
 ## Speaking & Community
 
 - Speaker / presenter at **100+ conferences** across AI & Web3 ecosystems (Local and International)
