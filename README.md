@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm an AI researcher and developer relations leader based in the Philippines, working at the intersection of **large language models**, **cloud infrastructure**, and **Web3 ecosystems**. Previously DevRel at **TARS AI** and **Virtuals Protocol / PathDAO**, ML Engineer at **Accenture**, and Lead ML Engineer at **Omdena** in collaboration with UNICEF, ITU, and UNDP — I've spent years bridging cutting-edge AI research and the builders who bring it to life, from onboarding 5,000+ developers across Southeast Asia to co-authoring accepted research at international AI conferences.
+I'm an AI researcher and developer relations leader, working at the intersection of **large language models**, **cloud infrastructure**, and **Web3 ecosystems**. Previously Head DevRel at **TARS AI** and DevRel **Virtuals Protocol / PathDAO**, ML Engineer at **Accenture**, and Lead ML Engineer at **Omdena** in collaboration with UNICEF, ITU, and UNDP — I've spent years bridging cutting-edge AI research and the builders who bring it to life, from onboarding 5,000+ developers across Southeast Asia to co-authoring accepted research at international AI conferences.
 
 I believe in building things that matter, explaining them clearly, and sharing them openly. Open to **research collaborations** in LLM interpretability, RAG architectures, and agentic systems.
 
