@@ -97,14 +97,10 @@ I believe in building things that matter, explaining them clearly, and sharing t
 </div>
 ---
 
+
 ## GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=armlynobinguar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armlynobinguar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&exclude_repo=github-readme-stats" />
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=armlynobinguar&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 
@@ -113,6 +109,7 @@ I believe in building things that matter, explaining them clearly, and sharing t
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=armlynobinguar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff)
 
 </div>
+
 ---
 
 ## Speaking & Community
