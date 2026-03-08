@@ -136,7 +136,7 @@ I believe in building things that matter, explaining them clearly, and sharing t
 
 ## Research
 
-**Split-Brain RAG: Why Large Language Models Are Not Enough for Scientific Question Answering** 
+[1] **Split-Brain RAG: Why Large Language Models Are Not Enough for Scientific Question Answering** 
 *Armielyn Obinguar & Jodi Moselle Alcantara* — Accepted at **NIAI 2026** 
 Explores hybrid retrieval-augmented generation architectures for scientific QA, introducing the Value Ratio metric for evaluating RAG pipeline fidelity.
 
