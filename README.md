@@ -25,28 +25,6 @@ I believe in building things that matter, explaining them clearly, and sharing t
 
 ---
 
-## Experience
-
-```
-──────────────────────────────────────────────────────────────────
-  Developer Relations                            Jan 2025 – Present
-──────────────────────────────────────────────────────────────────
-  Developer Relations – SEA  ·  Virtuals Protocol / PathDAO
-                                                 Jan 2024 – Jan 2025
-──────────────────────────────────────────────────────────────────
-  CTO & Co-Founder  ·  Safe Technology Ventures
-                                                 Jun 2023 – Dec 2023
-──────────────────────────────────────────────────────────────────
-  ML Engineer Specialist  ·  Accenture Philippines
-                                                 Jan 2021 – May 2023
-──────────────────────────────────────────────────────────────────
-  Lead ML Engineer  ·  Omdena  (UNICEF, ITU & UNDP)
-                                                 Mar 2020 – Dec 2021
-──────────────────────────────────────────────────────────────────
-```
-
----
-
 ## What I Work On
 
 ```
