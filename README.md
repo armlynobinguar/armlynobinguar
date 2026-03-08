@@ -19,12 +19,9 @@
 
 ## About Me
 
-I'm an AI researcher and developer relations leader based in the Philippines, working at the intersection of **large language models**, **cloud infrastructure**, and **Web3 ecosystems**. I've spent years bridging the gap between cutting-edge AI research and the builders who bring it to life — from onboarding 5,000+ developers in Southeast Asia to co-authoring accepted research at international AI conferences.
+I'm an AI researcher and developer relations leader based in the Philippines, working at the intersection of **large language models**, **cloud infrastructure**, and **Web3 ecosystems**. Previously DevRel at **TARS AI** and **Virtuals Protocol / PathDAO**, ML Engineer at **Accenture**, and Lead ML Engineer at **Omdena** in collaboration with UNICEF, ITU, and UNDP — I've spent years bridging cutting-edge AI research and the builders who bring it to life, from onboarding 5,000+ developers across Southeast Asia to co-authoring accepted research at international AI conferences.
 
-I believe in building things that matter, explaining them clearly, and sharing them openly.
-
-> **Co-author** of *Split-Brain RAG: Why Large Language Models Are Not Enough for Scientific Question Answering* — accepted at **NIAI 2026** 
-> Open to **research collaborations** in LLM interpretability, RAG architectures, and agentic systems
+I believe in building things that matter, explaining them clearly, and sharing them openly. Open to **research collaborations** in LLM interpretability, RAG architectures, and agentic systems.
 
 ---
 
@@ -33,34 +30,18 @@ I believe in building things that matter, explaining them clearly, and sharing t
 ```
 ──────────────────────────────────────────────────────────────────
   Developer Relations                            Jan 2025 – Present
-  AI & Web3 Ecosystems
-  → 10+ conferences as speaker or presenter
-  → Developer content, onboarding guides, and hands-on workshops
-  → Cross-functional work with engineering and marketing teams
 ──────────────────────────────────────────────────────────────────
-  Developer Relations – Southeast Asia           Jan 2024 – Jan 2025
-  Virtuals Protocol / PathDAO  ·  Generative AI
-  → Onboarded 5,000+ builders across the SEA ecosystem
-  → Built developer materials for AI agent dataset pipelines
-  → Organized physical meetups, workshops, and Web3 x AI events
+  Developer Relations – SEA  ·  Virtuals Protocol / PathDAO
+                                                 Jan 2024 – Jan 2025
 ──────────────────────────────────────────────────────────────────
-  CTO & Co-Founder                               Jun 2023 – Dec 2023
-  Safe Technology Ventures
-  → Built an escrow payment platform with FlutterFlow & Firebase
-  → Integrated TensorFlow-powered fraud prevention
-  → Deployed on Google Cloud for nationwide scale
+  CTO & Co-Founder  ·  Safe Technology Ventures
+                                                 Jun 2023 – Dec 2023
 ──────────────────────────────────────────────────────────────────
-  Machine Learning Engineer Specialist           Jan 2021 – May 2023
-  Accenture Philippines
-  → Led AWS & GCP ML deployments at 500k-record scale (89% success)
-  → Delivered PoCs in fraud detection, financial analysis, encryption
-  → Merged cloud infrastructure expertise with financial compliance
+  ML Engineer Specialist  ·  Accenture Philippines
+                                                 Jan 2021 – May 2023
 ──────────────────────────────────────────────────────────────────
-  Lead Machine Learning Engineer                 Mar 2020 – Dec 2021
-  Omdena  ·  w/ UNICEF, ITU & UNDP
-  → Led computer vision analysis across 50,000+ schools
-  → Applied CNNs & GANs to assess digital connectivity access
-  → Presented findings to international stakeholders and institutions
+  Lead ML Engineer  ·  Omdena  (UNICEF, ITU & UNDP)
+                                                 Mar 2020 – Dec 2021
 ──────────────────────────────────────────────────────────────────
 ```
 
@@ -113,12 +94,12 @@ I believe in building things that matter, explaining them clearly, and sharing t
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=armlynobinguar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armlynobinguar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=armlynobinguar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armlynobinguar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&cache_seconds=1800&langs_count=8" />
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=armlynobinguar&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=armlynobinguar&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 
 </div>
 
