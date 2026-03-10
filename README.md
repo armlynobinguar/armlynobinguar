@@ -140,8 +140,6 @@ I believe in building things that matter, explaining them clearly, and sharing t
 *Armielyn Obinguar & Jodi Moselle Alcantara* — Accepted at **NIAI 2026** 
 Explores hybrid retrieval-augmented generation architectures for scientific QA, introducing the Value Ratio metric for evaluating RAG pipeline fidelity.
 
-> Extended research in progress: *Adaptive Multi-Lane RAG*
-
 ---
 
 <div align="center">
