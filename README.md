@@ -130,7 +130,6 @@ I believe in building things that matter, explaining them clearly, and sharing t
 - Speaker / presenter at **100+ conferences** across AI & Web3 ecosystems (Local and International)
 - Facilitated **Solidity Fundamentals** workshops (CodeCamp PH)
 - Led SEA developer community growth — **5,000+ builders onboarded**
-- Contributed to **Avalanche Philippines** blockchain chapter strategy
 
 ---
 
