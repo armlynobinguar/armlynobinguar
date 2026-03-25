@@ -128,7 +128,7 @@ I believe in building things that matter, explaining them clearly, and sharing t
 ## Speaking & Community
 
 - Speaker / presenter at **100+ conferences** across AI & Web3 ecosystems (Local and International)
-- Facilitated **Solidity Fundamentals** workshops (CodeCamp PH)
+- Facilitated **Solidity Fundamentals** workshops 
 - Led SEA developer community growth — **5,000+ builders onboarded**
 
 ---
