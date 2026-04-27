@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1200&color=A78BFA&vCenter=true&center=true&width=700&lines=Developer+Relations+%7C+AI+%26+Web3;LLM+Researcher+%7C+NIAI+2026+Author;Machine+Learning+Engineer+%7C+ex-Accenture;Building+at+the+frontier+of+AI+%26+Web3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1200&color=A78BFA&vCenter=true&center=true&width=700&lines=Developer+Relations+%7C+AI+%26+Web3;LLM+Researcher+%7C+;Machine+Learning+Engineer+%7C+;Building+at+the+frontier+of+AI+%26+Web3" alt="Typing SVG" />
 
 </div>
 
