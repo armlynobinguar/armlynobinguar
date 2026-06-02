@@ -24,7 +24,7 @@ I believe in building things that matter, explaining them clearly, and sharing t
 
 ---
 
-## What I Work On
+## What I Work On Here
 
 ```
  Developer Relations → Community building, technical content, conference talks
