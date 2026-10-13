@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="./assets/chat.svg" width="100%" alt="Chat with Armielyn: Developer Relations for AI and Web3. Head of DevRel at TARS AI, DevRel at Virtuals Protocol / PathDAO, 5,000+ builders onboarded, 100+ talks, building Doqtri on Stellar. DM @aeriumcius on X." />
+<img src="./assets/chat.svg" width="100%" alt="Chat with Armielyn: Developer Relations for AI and Web3. Currently DevRel at Rise In; previously Head of DevRel at TARS AI, DevRel at Virtuals Protocol / PathDAO, 5,000+ builders onboarded, 100+ talks, building Doqtri on Stellar. DM @aeriumcius on X." />
 
 </div>
 
@@ -18,9 +18,10 @@
 
 ## Hi, I'm Armielyn 👋
 
-I'm a **Developer Relations** lead who helps developers go from *"what is this?"* to *"I shipped it."* I work where **AI** and **Web3** meet: I build the sample app, write the guide, run the workshop, and then bring what builders struggled with back to the product team.
+I'm a **Developer Relations** lead, currently **DevRel at [Rise In](https://www.risein.com)**, helping developers go from *"what is this?"* to *"I shipped it."* I work where **AI** and **Web3** meet: I build the sample app, write the guide, run the workshop, and then bring what builders struggled with back to the product team.
 
-- 🥑 Previously **Head of DevRel at TARS AI** and **DevRel at Virtuals Protocol / PathDAO**
+- 💼 **Now:** DevRel at **[Rise In](https://www.risein.com)**
+- 🥑 **Previously:** Head of DevRel at **TARS AI** and DevRel at **Virtuals Protocol / PathDAO**
 - 🌏 Grew the Southeast Asian developer community: **5,000+ builders onboarded**
 - 🎤 Speaker and presenter at **100+ local and international conferences** across AI and Web3
 - 🧪 Engineer and researcher behind the content: ML Engineer at **Accenture**, Lead ML Engineer at **Omdena** (with UNICEF, ITU and UNDP), and LLM researcher (**NIAI 2026**)

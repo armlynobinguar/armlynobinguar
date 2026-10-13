@@ -21,8 +21,9 @@ SCRIPT = [
     ("you", "hey! who are you? 👀"),
     ("me", "Hi, I'm Armielyn 👋 Developer Relations for AI & Web3."),
     ("me", "I help developers go from \"what is this?\"\nto \"I shipped it\" 🚀"),
-    ("you", "nice. where have you done DevRel?"),
-    ("me", "Head of DevRel @ TARS AI\nDevRel @ Virtuals Protocol / PathDAO"),
+    ("you", "nice. where do you work?"),
+    ("me", "Right now: DevRel @ Rise In 💜"),
+    ("me", "Before that: Head of DevRel @ TARS AI\nand DevRel @ Virtuals Protocol / PathDAO"),
     ("me", "5,000+ builders onboarded across Southeast Asia 🌏\n100+ talks, workshops and demos 🎤"),
     ("you", "what are you building right now?"),
     ("me", "Doqtri ⛓️ planned vs shipped, proven on Stellar\n→ doqtri.xyz"),
@@ -109,7 +110,7 @@ def build() -> str:
 <text x="{PAD+24}" y="52" text-anchor="middle" fill="#fff" font-weight="700" style="font-size:16px">AO</text>
 <circle cx="{PAD+41}" cy="62" r="6" fill="#22c55e" stroke="#0f0c29" stroke-width="3"/>
 <text x="{PAD+58}" y="42" fill="#fff" font-weight="700" style="font-size:17px">Armielyn Obinguar</text>
-<text x="{PAD+58}" y="63" fill="#a78bfa" style="font-size:13px">● online · DevRel · AI &amp; Web3</text>
+<text x="{PAD+58}" y="63" fill="#a78bfa" style="font-size:13px">● online · DevRel @ Rise In</text>
 <text x="{W-PAD}" y="50" text-anchor="end" fill="#8b93a7" style="font-size:20px">⋯</text>
 <line x1="{PAD}" y1="84" x2="{W-PAD}" y2="84" stroke="#2a2f45"/>
 {chr(10).join(parts)}
