@@ -18,17 +18,17 @@ READ_S = 0.9                 # pause after a message before the next one starts
 
 # (who, text). "me" = Armielyn (left), "you" = visitor (right). "\n" forces a line break.
 SCRIPT = [
-  ("you","hey! who are you?"),
-  ("me","Hi, I'm Armielyn Developer Relations for AI & Web3."),
-  ("me","I help developers go from \"what is this?\"\nto \"I shipped it\""),
-  ("you","nice. where do you work?"),
-  ("me","Right now: DevRel @ Rise In"),
-  ("me","Before that: Head of DevRel @ TARS AI\nand DevRel @ Virtuals Protocol / PathDAO"),
-  ("me","5,000+ builders onboarded across Southeast Asia \n100+ talks, workshops and demos"),
-  ("you","what are you building right now?"),
-  ("me","Doqtri planned vs shipped, proven on Stellar\n→ doqtri.xyz"),
-  ("you","could you speak at our event?"),
-  ("me","Yes! DM me on X @aeriumcius Let's build together."),
+    ("you", "hey! who are you?"),
+    ("me", "Hi, I'm Armielyn. Developer Relations for AI & Web3."),
+    ("me", "I help developers go from \"what is this?\"\nto \"I shipped it\"."),
+    ("you", "nice. where do you work?"),
+    ("me", "Right now: DevRel @ Rise In"),
+    ("me", "Before that: Head of DevRel @ TARS AI\nand DevRel @ Virtuals Protocol / PathDAO"),
+    ("me", "5,000+ builders onboarded across Southeast Asia\n100+ talks, workshops and demos"),
+    ("you", "what are you building right now?"),
+    ("me", "Doqtri: planned vs shipped, proven on Stellar\n→ doqtri.xyz"),
+    ("you", "could you speak at our event?"),
+    ("me", "Yes! DM me on X @aeriumcius. Let's build together."),
 ]
 
 
