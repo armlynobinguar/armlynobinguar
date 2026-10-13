@@ -6,7 +6,6 @@
 
 [![Twitter](https://img.shields.io/badge/@aeriumcius-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/aeriumcius)
 [![LinkedIn](https://img.shields.io/badge/Armielyn_Obinguar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armielyn-obinguar/)
-![Profile Views](https://komarev.com/ghpvc/?username=armlynobinguar&label=Profile%20views&color=6c63ff&style=for-the-badge)
 
 <br/>
 
