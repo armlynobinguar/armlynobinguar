@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1200&color=A78BFA&vCenter=true&center=true&width=720&lines=Developer+Relations+for+AI+%26+Web3;5%2C000%2B+builders+onboarded+across+Southeast+Asia;100%2B+talks%2C+workshops+and+demos;I+build+the+demo%2C+then+teach+it" alt="Typing SVG" />
+<img src="./assets/chat.svg" width="100%" alt="Chat with Armielyn: Developer Relations for AI and Web3. Head of DevRel at TARS AI, DevRel at Virtuals Protocol / PathDAO, 5,000+ builders onboarded, 100+ talks, building Doqtri on Stellar. DM @aeriumcius on X." />
 
 </div>
 
