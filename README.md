@@ -120,16 +120,6 @@ Open to **research collaborations** in LLM interpretability, RAG architectures a
 
 ---
 
-## Building in public
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=armlynobinguar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff)
-
-</div>
-
----
-
 ## Let's work together
 
 - **Projects & foundations:** developer onboarding, docs, sample apps and workshop programs for AI or Web3 developer tools
