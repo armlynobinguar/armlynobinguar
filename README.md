@@ -16,19 +16,19 @@
 
 ---
 
-## Hi, I'm Armielyn 👋
+## Hi, I'm Armielyn
 
 I'm a **Developer Relations** lead, currently **DevRel at [Rise In](https://www.risein.com)**, helping developers go from *"what is this?"* to *"I shipped it."* I work where **AI** and **Web3** meet: I build the sample app, write the guide, run the workshop, and then bring what builders struggled with back to the product team.
 
-- 💼 **Now:** DevRel at **[Rise In](https://www.risein.com)**
-- 🥑 **Previously:** Head of DevRel at **TARS AI** and DevRel at **Virtuals Protocol / PathDAO**
-- 🌏 Grew the Southeast Asian developer community: **5,000+ builders onboarded**
-- 🎤 Speaker and presenter at **100+ local and international conferences** across AI and Web3
-- 🧪 Engineer and researcher behind the content: ML Engineer at **Accenture**, Lead ML Engineer at **Omdena** (with UNICEF, ITU and UNDP), and LLM researcher (**NIAI 2026**)
+- **Now:** DevRel at **[Rise In](https://www.risein.com)**
+- **Previously:** Head of DevRel at **TARS AI** and DevRel at **Virtuals Protocol / PathDAO**
+- Grew the Southeast Asian developer community: **5,000+ builders onboarded**
+- Speaker and presenter at **100+ local and international conferences** across AI and Web3
+- Engineer and researcher behind the content: ML Engineer at **Accenture**, Lead ML Engineer at **Omdena** (with UNICEF, ITU and UNDP), and LLM researcher (**NIAI 2026**)
 
 ---
 
-## 🥑 What I do for developers
+## What I do for developers
 
 | Focus | How |
 |---|---|
@@ -40,7 +40,7 @@ I'm a **Developer Relations** lead, currently **DevRel at [Rise In](https://www.
 
 ---
 
-## 🚀 Featured: Doqtri — planned vs shipped, proven on-chain
+## Featured: Doqtri — planned vs shipped, proven on-chain
 
 <a href="https://www.doqtri.xyz"><b>doqtri.xyz</b></a> · <a href="https://www.doqtri.xyz/docs">Docs</a> · <a href="https://github.com/armlynobinguar/doqtri">Source</a> · <a href="https://x.com/usedoqtri">@usedoqtri</a>
 
@@ -57,17 +57,17 @@ It's built the way I'd teach it:
 
 ---
 
-## 🎤 Speaking & community
+## Speaking & community
 
-- 🎙️ Talks and live demos at **100+ local and international conferences**, from LLMs and RAG to building on-chain
-- 🛠️ Facilitated **Solidity Fundamentals** workshops, taking developers from zero to a deployed contract
-- 🌱 Ran developer programs that grew the Southeast Asian builder community
+- Talks and live demos at **100+ local and international conferences**, from LLMs and RAG to building on-chain
+- Facilitated **Solidity Fundamentals** workshops, taking developers from zero to a deployed contract
+- Ran developer programs that grew the Southeast Asian builder community
 
-📬 **Inviting me to speak, run a workshop or judge a hackathon?** DM me on [X](https://twitter.com/aeriumcius) or [LinkedIn](https://www.linkedin.com/in/armielyn-obinguar/).
+**Inviting me to speak, run a workshop or judge a hackathon?** DM me on [X](https://twitter.com/aeriumcius) or [LinkedIn](https://www.linkedin.com/in/armielyn-obinguar/).
 
 ---
 
-## 🔬 Research
+## Research
 
 **Split-Brain RAG: Why Large Language Models Are Not Enough for Scientific Question Answering**  
 *Armielyn Obinguar & Jodi Moselle Alcantara* — accepted at **NIAI 2026**  
@@ -77,7 +77,7 @@ Open to **research collaborations** in LLM interpretability, RAG architectures a
 
 ---
 
-## 🧰 The stack I build and teach with
+## The stack I build and teach with
 
 <div align="center">
 
@@ -120,13 +120,9 @@ Open to **research collaborations** in LLM interpretability, RAG architectures a
 
 ---
 
-## 📈 Building in public
+## Building in public
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=armlynobinguar&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
-
-<br/>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=armlynobinguar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff)
 
@@ -134,7 +130,7 @@ Open to **research collaborations** in LLM interpretability, RAG architectures a
 
 ---
 
-## 🤝 Let's work together
+## Let's work together
 
 - **Projects & foundations:** developer onboarding, docs, sample apps and workshop programs for AI or Web3 developer tools
 - **Event organisers:** talks, hands-on workshops and hackathon mentoring or judging
