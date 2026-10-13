@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Armielyn%20Obinguar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Researcher%20%E2%80%A2%20Developer%20Relations%20%E2%80%A2%20Builder&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Armielyn%20Obinguar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Developer%20Relations%20%E2%80%A2%20AI%20%26%20Web3%20%E2%80%A2%20Builder&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -10,110 +10,116 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1200&color=A78BFA&vCenter=true&center=true&width=700&lines=Developer+Relations+%7C+AI+%26+Web3;LLM+Researcher+%7C+;Machine+Learning+Engineer+%7C+;Building+at+the+frontier+of+AI+%26+Web3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1200&color=A78BFA&vCenter=true&center=true&width=720&lines=Developer+Relations+for+AI+%26+Web3;5%2C000%2B+builders+onboarded+across+Southeast+Asia;100%2B+talks%2C+workshops+and+demos;I+build+the+demo%2C+then+teach+it" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## About Me
+## Hi, I'm Armielyn 👋
 
-I'm an LLM independent researcher and developer relations, working at the intersection of **large language models**, **cloud infrastructure**, and **Web3 ecosystems**. Previously Head DevRel at **TARS AI** and DevRel **Virtuals Protocol / PathDAO**, ML Engineer at **Accenture**, and Lead ML Engineer at **Omdena** in collaboration with UNICEF, ITU, and UNDP — I've spent years bridging cutting-edge AI research and the builders who bring it to life, from onboarding 5,000+ developers across Southeast Asia to co-authoring accepted research at international AI conferences.
+I'm a **Developer Relations** lead who helps developers go from *"what is this?"* to *"I shipped it."* I work where **AI** and **Web3** meet: I build the sample app, write the guide, run the workshop, and then bring what builders struggled with back to the product team.
 
-I believe in building things that matter, explaining them clearly, and sharing them openly. Open to **research collaborations** in LLM interpretability, RAG architectures, and agentic systems.
-
----
-
-## What I Work On Here
-
-```
- Developer Relations → Community building, technical content, conference talks
- LLM Research → RAG systems, retrieval evaluation, scientific QA
- Cloud ML → AWS & GCP deployments, data pipelines at scale
- Web3 x AI → Etherium, Polkadot, Base, Solidity, Rust, Solana, Avalanche, Stellar, agentic frameworks
- Applied Security → Fraud detection, TensorFlow-based verification, encryption
-```
+- 🥑 Previously **Head of DevRel at TARS AI** and **DevRel at Virtuals Protocol / PathDAO**
+- 🌏 Grew the Southeast Asian developer community: **5,000+ builders onboarded**
+- 🎤 Speaker and presenter at **100+ local and international conferences** across AI and Web3
+- 🧪 Engineer and researcher behind the content: ML Engineer at **Accenture**, Lead ML Engineer at **Omdena** (with UNICEF, ITU and UNDP), and LLM researcher (**NIAI 2026**)
 
 ---
 
-## Tech Stack
+## 🥑 What I do for developers
+
+| Focus | How |
+|---|---|
+| **Educate** | Hands-on workshops such as **Solidity Fundamentals**, live coding, and docs and tutorials that get you to a working app quickly |
+| **Build in public** | Real, open-source sample apps that show a stack end to end, not toy snippets |
+| **Grow communities** | Meetups, hackathons and ambassador-style programs across Southeast Asia |
+| **Close the loop** | Turning developer feedback, friction logs and user tests into product and docs fixes |
+| **Speak** | Conference talks and demos on LLMs, RAG, agents and building on-chain |
+
+---
+
+## 🚀 Featured: Doqtri — planned vs shipped, proven on-chain
+
+<a href="https://www.doqtri.xyz"><b>doqtri.xyz</b></a> · <a href="https://www.doqtri.xyz/docs">Docs</a> · <a href="https://github.com/armlynobinguar/doqtri">Source</a> · <a href="https://x.com/usedoqtri">@usedoqtri</a>
+
+Write a plan in markdown, and its headings become a mindmap. Link each node to the pull request that shipped it, then anchor every version on **Stellar** so anyone can check what was planned and what shipped.
+
+It's built the way I'd teach it:
+
+- **Onboarding without a crypto extension:** sign up with email and a **passkey** creates a Soroban smart wallet (Face ID, fingerprint or PIN)
+- **Proof anyone can check:** public audit pages rebuild each note's history from the ledger
+- **Built in public:** weekly "what we shipped" build logs, open docs, MIT licence
+- **Tested with real developers:** 50 testers on testnet and 20 on mainnet, and every gap they reported was closed
+
+`Next.js` · `TypeScript` · `Rust / Soroban` · `Stellar SDK` · `Supabase` · `Passkeys`
+
+---
+
+## 🎤 Speaking & community
+
+- 🎙️ Talks and live demos at **100+ local and international conferences**, from LLMs and RAG to building on-chain
+- 🛠️ Facilitated **Solidity Fundamentals** workshops, taking developers from zero to a deployed contract
+- 🌱 Ran developer programs that grew the Southeast Asian builder community
+
+📬 **Inviting me to speak, run a workshop or judge a hackathon?** DM me on [X](https://twitter.com/aeriumcius) or [LinkedIn](https://www.linkedin.com/in/armielyn-obinguar/).
+
+---
+
+## 🔬 Research
+
+**Split-Brain RAG: Why Large Language Models Are Not Enough for Scientific Question Answering**  
+*Armielyn Obinguar & Jodi Moselle Alcantara* — accepted at **NIAI 2026**  
+Explores hybrid retrieval-augmented generation for scientific QA and introduces the *Value Ratio* metric for evaluating how faithfully a RAG pipeline answers.
+
+Open to **research collaborations** in LLM interpretability, RAG architectures and agentic systems.
+
+---
+
+## 🧰 The stack I build and teach with
 
 <div align="center">
 
-**Languages**  
+**AI / LLMs**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-**AI / ML**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B47ED?style=flat-square&logo=llama&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B47ED?style=flat-square&logo=llama&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**Research & ML Tools**  
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
-![Ray](https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=ray&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**Cloud & Infrastructure**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**DevOps & CI/CD**  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-
-**Data & Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Web3**  
+![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=flat-square&logo=stellar&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Base](https://img.shields.io/badge/Base-0052FF?style=flat-square&logo=coinbase&logoColor=white)
 ![Avalanche](https://img.shields.io/badge/Avalanche-E84142?style=flat-square&logo=avalanche&logoColor=white)
 ![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?style=flat-square&logo=polkadot&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-**Frontend & Dev**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+**Apps & infrastructure**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 </div>
 
+---
 
-
-## GitHub Stats
+## 📈 Building in public
 
 <div align="center">
 
@@ -125,21 +131,13 @@ I believe in building things that matter, explaining them clearly, and sharing t
 
 </div>
 
-## Speaking & Community
-
-- Speaker / presenter at **100+ conferences** across AI & Web3 ecosystems (Local and International)
-- Facilitated **Solidity Fundamentals** workshops 
-- Led SEA developer community growth — **5,000+ builders onboarded**
-
 ---
 
-## Research
+## 🤝 Let's work together
 
-[1] **Split-Brain RAG: Why Large Language Models Are Not Enough for Scientific Question Answering** 
-*Armielyn Obinguar & Jodi Moselle Alcantara* — Accepted at **NIAI 2026** 
-Explores hybrid retrieval-augmented generation architectures for scientific QA, introducing the Value Ratio metric for evaluating RAG pipeline fidelity.
-
----
+- **Projects & foundations:** developer onboarding, docs, sample apps and workshop programs for AI or Web3 developer tools
+- **Event organisers:** talks, hands-on workshops and hackathon mentoring or judging
+- **Researchers:** collaborations on RAG, LLM interpretability and agentic systems
 
 <div align="center">
 
