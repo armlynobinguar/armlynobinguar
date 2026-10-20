@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Armielyn%20Obinguar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Developer%20Relations%20%E2%80%A2%20AI%20%26%20Web3%20%E2%80%A2%20Builder&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
-
 <img src="./assets/chat.svg" width="100%" alt="Chat with Armielyn: Developer Relations for AI and Web3. Currently DevRel at Rise In; previously Head of DevRel at TARS AI, DevRel at Virtuals Protocol / PathDAO, 5,000+ builders onboarded, 100+ talks, building Doqtri on Stellar. DM @aeriumcius on X." />
 
 </div>
